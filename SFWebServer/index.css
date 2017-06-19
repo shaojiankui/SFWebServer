@@ -1,0 +1,36 @@
+.module-content {
+    padding: 3px 0;
+}
+
+.atc-title {
+    font-weight: bold;
+    padding: 0 10px;
+    text-align: center;
+    color: #1e76b6;
+    font-size:17px;
+
+}
+
+.atc-date {
+    color: #cbcbcb;
+    font-size: 14px;
+    padding: 4px 10px;
+    text-align: center;
+}
+.atc-context {
+    line-height: 1.8;
+    padding: 5px 10px;
+    color:#454545;
+}
+.atc-img {
+    margin: 5px 0;
+    padding: 0 10px;
+    text-align: center;
+}
+img {
+    margin: 5px 0;
+    padding: 0 10px;
+    width: 100%;
+    text-align: center;
+
+}

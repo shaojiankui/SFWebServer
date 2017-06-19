@@ -22,6 +22,8 @@
 		B8F7DB3A1EF78BD400BD1AD5 /* SFWebServerRouter.m in Sources */ = {isa = PBXBuildFile; fileRef = B8F7DB361EF78BD400BD1AD5 /* SFWebServerRouter.m */; };
 		B8F7DB3C1EF78C3000BD1AD5 /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = B8F7DB3B1EF78C2F00BD1AD5 /* index.html */; };
 		B8F7DB3E1EF78D2400BD1AD5 /* test.zip in Resources */ = {isa = PBXBuildFile; fileRef = B8F7DB3D1EF78D2400BD1AD5 /* test.zip */; };
+		B8F7DB421EF78EB800BD1AD5 /* index.css in Resources */ = {isa = PBXBuildFile; fileRef = B8F7DB411EF78EB800BD1AD5 /* index.css */; };
+		B8F7DB441EF7901300BD1AD5 /* test.png in Resources */ = {isa = PBXBuildFile; fileRef = B8F7DB431EF7901300BD1AD5 /* test.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -50,6 +52,8 @@
 		B8F7DB361EF78BD400BD1AD5 /* SFWebServerRouter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SFWebServerRouter.m; sourceTree = "<group>"; };
 		B8F7DB3B1EF78C2F00BD1AD5 /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		B8F7DB3D1EF78D2400BD1AD5 /* test.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = test.zip; sourceTree = "<group>"; };
+		B8F7DB411EF78EB800BD1AD5 /* index.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = index.css; sourceTree = "<group>"; };
+		B8F7DB431EF7901300BD1AD5 /* test.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = test.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,8 +92,10 @@
 				B8F7DB111EF78B8C00BD1AD5 /* AppDelegate.m */,
 				B8F7DB131EF78B8C00BD1AD5 /* ViewController.h */,
 				B8F7DB141EF78B8C00BD1AD5 /* ViewController.m */,
+				B8F7DB431EF7901300BD1AD5 /* test.png */,
 				B8F7DB3B1EF78C2F00BD1AD5 /* index.html */,
 				B8F7DB3D1EF78D2400BD1AD5 /* test.zip */,
+				B8F7DB411EF78EB800BD1AD5 /* index.css */,
 				B8F7DB161EF78B8C00BD1AD5 /* Main.storyboard */,
 				B8F7DB191EF78B8C00BD1AD5 /* Assets.xcassets */,
 				B8F7DB1B1EF78B8C00BD1AD5 /* LaunchScreen.storyboard */,
@@ -200,8 +206,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B8F7DB421EF78EB800BD1AD5 /* index.css in Resources */,
 				B8F7DB3C1EF78C3000BD1AD5 /* index.html in Resources */,
 				B8F7DB1D1EF78B8C00BD1AD5 /* LaunchScreen.storyboard in Resources */,
+				B8F7DB441EF7901300BD1AD5 /* test.png in Resources */,
 				B8F7DB1A1EF78B8C00BD1AD5 /* Assets.xcassets in Resources */,
 				B8F7DB181EF78B8C00BD1AD5 /* Main.storyboard in Resources */,
 				B8F7DB2B1EF78BD000BD1AD5 /* Documentation.html in Resources */,

@@ -23,4 +23,7 @@
 - (instancetype)initWithHTMLData:(NSData*)htmlData;
 - (instancetype)initWithFile:(NSString*)filePath;
 - (instancetype)initWithFileName:(NSString*)fileName;
+
+- (instancetype)initWithDownFileName:(NSString*)fileName;
+- (instancetype)initWithDownFile:(NSString*)filePath;
 @end
